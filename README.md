@@ -6,7 +6,7 @@ No collaborations. No forks. Just my own projects.
 
 ## 🔗 Connect with me
 - ![Twitter](https://img.icons8.com/ios/452/twitter.png) [Twitter](https://x.com/MisterOfGamesYT)
-- ![TikTok](https://img.icons8.com/ios/452/tiktok.png) [TikTok](https://www.tiktok.com/@misterofgamesyt)
+- ![TikTok](https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/250px-TikTok_logo.svg.png) [TikTok](https://www.tiktok.com/@misterofgamesyt)
 
 ## 📈 GitHub Stats
 
