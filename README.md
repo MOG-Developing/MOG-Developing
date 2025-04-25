@@ -5,8 +5,8 @@ Hey! I'm MOG-Developing. Just here to code and share what I make.
 No collaborations. No forks. Just my own projects.
 
 ## 🔗 Connect with me
-- ![Twitter](https://img.icons8.com/ios/452/twitter.png) [Twitter](https://x.com/MisterOfGamesYT)
-- ![TikTok](https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/250px-TikTok_logo.svg.png) [TikTok](https://www.tiktok.com/@misterofgamesyt)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MisterOfGamesYT) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@misterofgamesyt)
 
 ## 📈 GitHub Stats
 
