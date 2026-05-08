@@ -8,7 +8,7 @@ No collaborations. No forks. Just my own projects.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MisterOfGamesYT) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@misterofgamesyt)
 
-[![Discord Server](https://invidget.switchblade.xyz/rcAN3bSuTz)](https://discord.gg/rcAN3bSuTz)
+[![Discord](https://discord.com/api/guilds/1320066249274822656/widget.png?style=banner2)](https://discord.gg/rcAN3bSuTz)
 
 ## 📈 GitHub Stats
 
